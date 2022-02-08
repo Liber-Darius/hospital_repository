@@ -1,0 +1,2 @@
+
+    def getCNP(self):
